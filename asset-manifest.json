@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/open-sale-dashboard/static/css/main.4e77a048.css",
-    "main.js": "/open-sale-dashboard/static/js/main.8b2e7e88.js",
-    "static/js/453.800a6649.chunk.js": "/open-sale-dashboard/static/js/453.800a6649.chunk.js",
-    "index.html": "/open-sale-dashboard/index.html",
-    "main.4e77a048.css.map": "/open-sale-dashboard/static/css/main.4e77a048.css.map",
-    "main.8b2e7e88.js.map": "/open-sale-dashboard/static/js/main.8b2e7e88.js.map",
-    "453.800a6649.chunk.js.map": "/open-sale-dashboard/static/js/453.800a6649.chunk.js.map"
+    "main.css": "/open-shop-dashboard/static/css/main.4e77a048.css",
+    "main.js": "/open-shop-dashboard/static/js/main.04dd9c68.js",
+    "static/js/453.800a6649.chunk.js": "/open-shop-dashboard/static/js/453.800a6649.chunk.js",
+    "index.html": "/open-shop-dashboard/index.html",
+    "main.4e77a048.css.map": "/open-shop-dashboard/static/css/main.4e77a048.css.map",
+    "main.04dd9c68.js.map": "/open-shop-dashboard/static/js/main.04dd9c68.js.map",
+    "453.800a6649.chunk.js.map": "/open-shop-dashboard/static/js/453.800a6649.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e77a048.css",
-    "static/js/main.8b2e7e88.js"
+    "static/js/main.04dd9c68.js"
   ]
 }
